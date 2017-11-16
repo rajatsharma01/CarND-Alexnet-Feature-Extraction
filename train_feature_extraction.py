@@ -4,6 +4,7 @@ from sklearn.model_selection import train_test_split
 from alexnet import AlexNet
 
 # TODO: Load traffic signs data.
+training_file = "train.p"
 
 # TODO: Split data into training and validation sets.
 
